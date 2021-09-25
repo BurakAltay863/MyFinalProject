@@ -11,11 +11,26 @@ namespace ConoleUI
         //Open Closed Principle
         static void Main(string[] args)
         {
-            ProductManeger productManeger = new ProductManeger(new EfProductDal());
-            foreach (var product in productManeger.GetByUnitPrice(10,50))
+            ProductTest();
+            //CategoryTest();
+        }
+
+        private static void CategoryTest()
+        {
+            CategoryManeger categoryManeger = new CategoryManeger(new EfCategoryDal());
+            foreach (var category in categoryManeger.GetAll())
             {
-                Console.WriteLine("{0}----{1}",product.ProductName,product.UnitsInStock);
-                
+                Console.WriteLine("category name = " + category.CategoryName);
+            }
+        }
+
+        private static void ProductTest()
+        {
+            ProductManeger productManeger = new ProductManeger(new EfProductDal());
+            foreach (var product in productManeger.GetProductDetails())
+            {
+                Console.WriteLine( product.ProductName+"/"+ product.CategoryName);
+
             }
         }
     }
