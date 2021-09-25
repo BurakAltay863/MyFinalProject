@@ -21,6 +21,7 @@ namespace ConoleUI
             foreach (var category in categoryManeger.GetAll())
             {
                 Console.WriteLine("category name = " + category.CategoryName);
+
             }
         }
 
