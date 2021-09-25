@@ -1,0 +1,10 @@
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Core\obj\Debug\netcoreapp3.1\Core.pdb

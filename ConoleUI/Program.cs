@@ -13,9 +13,7 @@ namespace ConoleUI
         {
             ProductTest();
             //CategoryTest();
-
-
-
+            Console.WriteLine("BurakAltay");
         }
 
         private static void CategoryTest()

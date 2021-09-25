@@ -1,0 +1,17 @@
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Buisness.deps.json
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Buisness.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Buisness.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\DataAcsess.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\DataAcsess.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.AssemblyInfoInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.AssemblyInfo.cs
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.csproj.CoreCompileInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.csproj.CopyComplete
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.csproj.AssemblyReference.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\obj\Debug\netcoreapp3.1\Buisness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\Buisness\bin\Debug\netcoreapp3.1\Core.pdb

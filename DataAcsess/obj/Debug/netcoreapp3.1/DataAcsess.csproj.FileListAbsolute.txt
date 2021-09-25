@@ -1,0 +1,15 @@
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\DataAcsess.deps.json
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\DataAcsess.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\DataAcsess.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.AssemblyInfoInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.AssemblyInfo.cs
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.csproj.CoreCompileInputs.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.csproj.CopyComplete
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.csproj.AssemblyReference.cache
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\obj\Debug\netcoreapp3.1\DataAcsess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\DataAcsess\bin\Debug\netcoreapp3.1\Core.pdb
