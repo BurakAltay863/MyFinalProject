@@ -5694,11 +5694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAcsess.csproj",
+      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAcsess.csproj",
       "projectName": "DataAcsess",
-      "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAcsess.csproj",
+      "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAcsess.csproj",
       "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\obj\\",
+      "outputPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5715,11 +5715,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj"
             },
-            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj"
             }
           }
         }
