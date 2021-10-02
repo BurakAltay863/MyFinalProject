@@ -1,12 +1,12 @@
-﻿using Buisness.Abstract;
-using DataAcsess.Abstract;
+﻿using Business.Abstract;
+using DataAccsess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Buisness.Concrete
+namespace Business.Concrete
 {
     public class ProductManeger : IProductService
     {

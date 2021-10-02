@@ -8,8 +8,8 @@
     ".NETCoreApp,Version=v3.1": {
       "ConoleUI/1.0.0": {
         "dependencies": {
-          "Buisness": "1.0.0",
-          "DataAcsess": "1.0.0",
+          "Business": "1.0.0",
+          "DataAccsess": "1.0.0",
           "Entities": "1.0.0"
         },
         "runtime": {
@@ -1016,13 +1016,13 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "Buisness/1.0.0": {
+      "Business/1.0.0": {
         "dependencies": {
-          "DataAcsess": "1.0.0",
+          "DataAccsess": "1.0.0",
           "Entities": "1.0.0"
         },
         "runtime": {
-          "Buisness.dll": {}
+          "Business.dll": {}
         }
       },
       "Core/1.0.0": {
@@ -1033,14 +1033,13 @@
           "Core.dll": {}
         }
       },
-      "DataAcsess/1.0.0": {
+      "DataAccsess/1.0.0": {
         "dependencies": {
           "Core": "1.0.0",
-          "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+          "Entities": "1.0.0"
         },
         "runtime": {
-          "DataAcsess.dll": {}
+          "DataAccsess.dll": {}
         }
       },
       "Entities/1.0.0": {
@@ -1745,7 +1744,7 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "Buisness/1.0.0": {
+    "Business/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1755,7 +1754,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "DataAcsess/1.0.0": {
+    "DataAccsess/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

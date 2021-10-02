@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Buisness.Abstract
+namespace Business.Abstract
 {
     public interface IProductService
     {

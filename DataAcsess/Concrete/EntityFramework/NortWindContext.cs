@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataAcsess.Concrete.EntityFramework
+namespace DataAccsess.Concrete.EntityFramework
 {
     // context: Db tabloları ıle proje calsslarını baglamak
     public class NortWindContext:DbContext

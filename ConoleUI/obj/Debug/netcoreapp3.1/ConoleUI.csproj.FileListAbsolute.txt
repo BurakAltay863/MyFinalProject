@@ -10,11 +10,7 @@ C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\ob
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\obj\Debug\netcoreapp3.1\ConoleUI.dll
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\obj\Debug\netcoreapp3.1\ConoleUI.pdb
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\obj\Debug\netcoreapp3.1\ConoleUI.genruntimeconfig.cache
-C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Buisness.dll
-C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\DataAcsess.dll
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Entities.dll
-C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Buisness.pdb
-C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\DataAcsess.pdb
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\obj\Debug\netcoreapp3.1\ConoleUI.csproj.CopyComplete
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -61,3 +57,7 @@ C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bi
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\DataAccsess.dll
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\BurakPC\Desktop\Yazılım Geliştirme Kampı\MyFinalProject\ConoleUI\bin\Debug\netcoreapp3.1\DataAccsess.pdb

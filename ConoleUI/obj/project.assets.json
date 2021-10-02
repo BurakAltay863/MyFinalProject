@@ -1468,18 +1468,18 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Buisness/1.0.0": {
+      "Business/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "DataAcsess": "1.0.0",
+          "DataAccsess": "1.0.0",
           "Entities": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Buisness.dll": {}
+          "bin/placeholder/Business.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Buisness.dll": {}
+          "bin/placeholder/Business.dll": {}
         }
       },
       "Core/1.0.0": {
@@ -1495,19 +1495,18 @@
           "bin/placeholder/Core.dll": {}
         }
       },
-      "DataAcsess/1.0.0": {
+      "DataAccsess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Core": "1.0.0",
-          "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+          "Entities": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/DataAcsess.dll": {}
+          "bin/placeholder/DataAccsess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/DataAcsess.dll": {}
+          "bin/placeholder/DataAccsess.dll": {}
         }
       },
       "Entities/1.0.0": {
@@ -5699,20 +5698,20 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Buisness/1.0.0": {
+    "Business/1.0.0": {
       "type": "project",
-      "path": "../Buisness/Buisness.csproj",
-      "msbuildProject": "../Buisness/Buisness.csproj"
+      "path": "../Buisness/Business.csproj",
+      "msbuildProject": "../Buisness/Business.csproj"
     },
     "Core/1.0.0": {
       "type": "project",
       "path": "../Core/Core.csproj",
       "msbuildProject": "../Core/Core.csproj"
     },
-    "DataAcsess/1.0.0": {
+    "DataAccsess/1.0.0": {
       "type": "project",
-      "path": "../DataAcsess/DataAcsess.csproj",
-      "msbuildProject": "../DataAcsess/DataAcsess.csproj"
+      "path": "../DataAcsess/DataAccsess.csproj",
+      "msbuildProject": "../DataAcsess/DataAccsess.csproj"
     },
     "Entities/1.0.0": {
       "type": "project",
@@ -5722,8 +5721,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Buisness >= 1.0.0",
-      "DataAcsess >= 1.0.0",
+      "Business >= 1.0.0",
+      "DataAccsess >= 1.0.0",
       "Entities >= 1.0.0"
     ]
   },
@@ -5733,11 +5732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\ConoleUI\\ConoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\ConoleUI\\ConoleUI.csproj",
       "projectName": "ConoleUI",
-      "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\ConoleUI\\ConoleUI.csproj",
+      "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\ConoleUI\\ConoleUI.csproj",
       "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\ConoleUI\\obj\\",
+      "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\ConoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5754,14 +5753,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Buisness\\Buisness.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Buisness\\Buisness.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Buisness\\Business.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Buisness\\Business.csproj"
             },
-            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAcsess.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAcsess.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAccsess.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAccsess.csproj"
             },
-            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj"
             }
           }
         }

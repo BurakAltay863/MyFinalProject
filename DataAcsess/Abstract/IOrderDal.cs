@@ -1,10 +1,10 @@
-﻿using Core.DataAcsess;
+﻿using Core.DataAccsess;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataAcsess.Abstract
+namespace DataAccsess.Abstract
 {
     public interface IOrderDal: IEntityRepository<Order>
     {

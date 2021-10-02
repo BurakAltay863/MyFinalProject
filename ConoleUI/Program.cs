@@ -1,6 +1,6 @@
-﻿using Buisness.Concrete;
-using DataAcsess.Concrete.EntityFramework;
-using DataAcsess.Concrete.InMemory;
+﻿using Business.Concrete;
+using DataAccsess.Concrete.EntityFramework;
+using DataAccsess.Concrete.InMemory;
 using System;
 
 namespace ConoleUI

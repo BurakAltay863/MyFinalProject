@@ -1,4 +1,4 @@
-﻿using DataAcsess.Abstract;
+﻿using DataAccsess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAcsess.Concrete.InMemory
+namespace DataAccsess.Concrete.InMemory
 {
     public class InMemoryProductDal : IProductDal
     {

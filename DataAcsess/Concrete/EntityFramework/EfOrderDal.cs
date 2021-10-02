@@ -1,11 +1,11 @@
 ﻿using Core.EntityFramework;
-using DataAcsess.Abstract;
+using DataAccsess.Abstract;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace DataAcsess.Concrete.EntityFramework
+namespace DataAccsess.Concrete.EntityFramework
 {
     public class EfOrderDal:EfEntityRepositoryBase<Order, NortWindContext>, IOrderDal
     {

@@ -1,11 +1,11 @@
-﻿using Buisness.Abstract;
-using DataAcsess.Abstract;
+﻿using Business.Abstract;
+using DataAccsess.Abstract;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Buisness.Concrete
+namespace Business.Concrete
 {
     public class CategoryManeger : ICategoryService
     {

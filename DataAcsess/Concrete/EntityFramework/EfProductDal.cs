@@ -1,5 +1,5 @@
 ﻿using Core.EntityFramework;
-using DataAcsess.Abstract;
+using DataAccsess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
 using Microsoft.EntityFrameworkCore;
@@ -9,7 +9,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAcsess.Concrete.EntityFramework
+namespace DataAccsess.Concrete.EntityFramework
 {
     //NuGet
     public class EfProductDal : EfEntityRepositoryBase<Product, NortWindContext>, IProductDal
@@ -23,8 +23,10 @@ namespace DataAcsess.Concrete.EntityFramework
                          on p.CategoryId equals c.CategoryId
                          select new ProductDetailDto
                          {
-                             ProductId = p.ProductId,ProductName = p.ProductName,
-                             CategoryName = c.CategoryName,UnitsInStock = p.UnitsInStock
+                             ProductId = p.ProductId,
+                             ProductName = p.ProductName,
+                             CategoryName = c.CategoryName,
+                             UnitsInStock = p.UnitsInStock
                          };
             return result.ToList();
         }

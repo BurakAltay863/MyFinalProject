@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "opmWb6gEVTcDnSDC0kGokAhbp6R5XB9cY9VOhpRxpmg4UkYPCyl/SLl0fE2EZkzZEaw8B//Buyx66FZ5YyC6OQ==",
+  "dgSpecHash": "0uMn9M+iqN9u0zzbqKjZAO7QIZa3sMXt/Vs9Ysw3WV+wN9S51HL1RgyMonCn+UkFkf+RAWO2MtgOebtIRxZSFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BurakPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BurakPC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
