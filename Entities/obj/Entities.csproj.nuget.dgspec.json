@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj": {}
+    "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj": {
+    "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj"
+              "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj"
               }
             }
           }

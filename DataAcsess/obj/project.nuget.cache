@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X9AN96hfn+ZbzDbGRPY266Oe2FLhQ9mUV5M95QTTq+qLz/WSdGOL2MVCtdPOtiN3Qr+BY7JuOkQmDpuN2XU0CQ==",
+  "dgSpecHash": "copicgyX4YG19eoiV6vIqkjE1JKLuD2NKnjDRDCshEpSzO3xJ+tsh3/2BnkF+qxtSXXNXMgaM8lf4U0ipH0lNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAccsess.csproj",
+  "projectFilePath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAccsess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BurakPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BurakPC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
