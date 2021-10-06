@@ -13,7 +13,7 @@ namespace ConoleUI
         {
             ProductTest();
             //CategoryTest();
-            Console.WriteLine("BurakAltay");
+            
         }
 
         private static void CategoryTest()
@@ -29,11 +29,21 @@ namespace ConoleUI
         private static void ProductTest()
         {
             ProductManeger productManeger = new ProductManeger(new EfProductDal());
-            foreach (var product in productManeger.GetProductDetails())
+            var result = productManeger.GetProductDetails();
+            if (result.Success==true)
             {
-                Console.WriteLine( product.ProductName+"/"+ product.CategoryName);
+                foreach (var product in result.Data)
+                {
+                    Console.WriteLine(product.ProductName + "/" + product.CategoryName);
+                }
+
 
             }
+            else
+            {
+                Console.WriteLine(result.Massege);
+            }
+            
         }
     }
 }
