@@ -29,9 +29,6 @@ namespace WebAPI.Controllers
             IProductService productService = new ProductManeger(new EfProductDal());
             var result =  productService.GetAll();
             return result.Data;
-
-
-
         }
         
     }
