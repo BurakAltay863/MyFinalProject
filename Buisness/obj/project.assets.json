@@ -5712,11 +5712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Buisness\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Buisness\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Buisness\\Business.csproj",
+      "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Buisness\\Business.csproj",
       "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Buisness\\obj\\",
+      "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Buisness\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5733,11 +5733,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAccsess.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\DataAcsess\\DataAccsess.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAccsess.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\DataAcsess\\DataAccsess.csproj"
             },
-            "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Entities\\Entities.csproj"
             }
           }
         }
@@ -5766,7 +5766,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

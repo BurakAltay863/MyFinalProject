@@ -5656,11 +5656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\BurakPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\Core\\obj\\",
+      "outputPath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BurakPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5709,7 +5709,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

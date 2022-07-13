@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m5vVhoULkWOaQTPS5CctkmjWZ5/RTlDepfy5Eya56rAxHiOpuJxJXcDcI+pYor7OtJwS2Z0fwAcqVKp80JtBtQ==",
+  "dgSpecHash": "dvzYlc/jmTXg3SdpTqpR7wMxq/naYlvO4ZYoZ7Sr6ETGz71lQeuJ9Yv0wJ0loB1mPTQeS4LBNglN0AohqSNJug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BurakPC\\Desktop\\MyFinalProject\\ConoleUI\\ConoleUI.csproj",
+  "projectFilePath": "C:\\Users\\BurakPC\\Desktop\\Yazılım Geliştirme Kampı\\MyFinalProject\\ConoleUI\\ConoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BurakPC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\BurakPC\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
