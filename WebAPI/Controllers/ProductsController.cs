@@ -30,6 +30,8 @@ namespace WebAPI.Controllers
             var result =  productService.GetAll();
             return result.Data;
 
+
+
         }
         
     }
